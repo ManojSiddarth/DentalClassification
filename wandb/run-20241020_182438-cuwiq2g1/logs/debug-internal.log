@@ -1,0 +1,8 @@
+{"time":"2024-10-20T18:24:38.0294043+05:30","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-20T18:24:38.0294043+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\manoj\\DentalClassification\\wandb\\run-20241020_182438-cuwiq2g1\\logs\\debug-core.log"}
+{"time":"2024-10-20T18:24:38.1663701+05:30","level":"INFO","msg":"created new stream","id":"cuwiq2g1"}
+{"time":"2024-10-20T18:24:38.1670506+05:30","level":"INFO","msg":"stream: started","id":"cuwiq2g1"}
+{"time":"2024-10-20T18:24:38.1674427+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cuwiq2g1"}}
+{"time":"2024-10-20T18:24:38.1705732+05:30","level":"INFO","msg":"sender: started","stream_id":"cuwiq2g1"}
+{"time":"2024-10-20T18:24:38.1715618+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"cuwiq2g1"}}
+{"time":"2024-10-20T18:24:39.1054734+05:30","level":"INFO","msg":"Starting system monitor"}
